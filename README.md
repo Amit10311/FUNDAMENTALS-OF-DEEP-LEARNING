@@ -31,8 +31,8 @@ By participating in this workshop, you’ll:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**1. The Mechanics of Deep Learning**
 
+**1. The Mechanics of Deep Learning**
 Explore the fundamental mechanics and tools involved in successfully training deep neural networks:
 
 * Train your first computer vision model to learn the process of training.
@@ -42,10 +42,9 @@ Explore the fundamental mechanics and tools involved in successfully training de
 * Apply data augmentation to enhance a dataset and improve model generalization.
 
 
-**2. Pre-trained Models and Recurrent Networks**
 
-Leverage pre-trained models to solve deep learning challenges quickly. 
-Train recurrent neural networks on sequential data:
+**2. Pre-trained Models and Recurrent Networks**
+Leverage pre-trained models to solve deep learning challenges quickly.  Train recurrent neural networks on sequential data:
 
 * Integrate a pre-trained image classification model to create an automatic doggy door.
 
@@ -56,7 +55,6 @@ Train recurrent neural networks on sequential data:
 
 
 **3. Final Project: Object Classification**
-
 Apply computer vision to create a model that distinguishes between fresh and rotten fruit.
 
 * Create and train a model that interprets color images.
