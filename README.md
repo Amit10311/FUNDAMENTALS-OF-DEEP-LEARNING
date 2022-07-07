@@ -66,6 +66,6 @@ Apply computer vision to create a model that distinguishes between fresh and rot
 
 * Improve training speed by combining transfer learning and feature extraction.
 
-* Discuss advanced neural network architectures and recent areas of research where students can further improve their skills.
+
 
 
