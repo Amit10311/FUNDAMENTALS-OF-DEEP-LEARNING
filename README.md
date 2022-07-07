@@ -15,6 +15,9 @@ Part 5: Pre-trained Models
 Part 6: Advanced Architectures
 
 
+**Tools, libraries, and frameworks:** Tensorflow, Keras, Pandas, NumPy
+
+
 **Learning Objectives**
 
 By participating in this workshop, you’ll:
