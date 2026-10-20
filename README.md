@@ -14,9 +14,7 @@ Part 5: Pre-trained Models
 
 Part 6: Advanced Architectures
 
-
-**Tools, libraries, and frameworks:** Tensorflow, Keras, Pandas, NumPy
-
+**Tools, libraries, and frameworks:** TensorFlow, Keras, Pandas, NumPy
 
 **Learning Objectives**
 
@@ -34,7 +32,6 @@ By participating in this workshop, you’ll:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-
 **1. The Mechanics of Deep Learning**
 
 Explore the fundamental mechanics and tools involved in successfully training deep neural networks:
@@ -45,8 +42,6 @@ Explore the fundamental mechanics and tools involved in successfully training de
 
 * Apply data augmentation to enhance a dataset and improve model generalization.
 
-
-
 **2. Pre-trained Models and Recurrent Networks**
 
 Leverage pre-trained models to solve deep learning challenges quickly.  Train recurrent neural networks on sequential data:
@@ -56,8 +51,6 @@ Leverage pre-trained models to solve deep learning challenges quickly.  Train re
 * Leverage transfer learning to create a personalized doggy door that only lets in your dog.
 
 * Train a model to autocomplete text based on New York Times headlines.
-
-
 
 **3. Final Project: Object Classification**
 
@@ -70,5 +63,16 @@ Apply computer vision to create a model that distinguishes between fresh and rot
 * Improve training speed by combining transfer learning and feature extraction.
 
 
+-----
+## To learn Better and More 
+
+**1. fast.ai - Practical Deep Learning for Coders**
+ - https://course.fast.ai/
+
+**2. Andrej Karpathy - Neural Networks: Zero to Hero**
+ - https://lnkd.in/d23d8dMt
+
+**3. Dive into Deep Learning**
+ - https://d2l.ai/
 
 
